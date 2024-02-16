@@ -1,0 +1,3 @@
+[ERROR][2023-11-07 09:43:37.646] Ne mozete izbrisati ProjectExplorer
+[ERROR][2023-11-07 09:46:48.978] Ne mozete izbrisati ProjectExplorer
+[ERROR][2023-11-07 09:49:08.493] Ne mozete izbrisati ProjectExplorer
